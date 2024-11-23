@@ -1,0 +1,1246 @@
+
+.Logo-Airbnb{
+    margin: 25px 0px 0px 350px;
+}
+
+.Logo-Airbnb .fa-airbnb{
+    font-size: 40px;
+    
+}
+.Logo-Airbnb .fa-airbnb:hover{
+    color: #FF385C;
+
+}
+.Title-Airbnb2{
+    margin: -60px 0px 0px 400px;
+}
+.Title-Airbnb2 h4{
+    font-size: 22px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+}
+.Title-Airbnb h4:hover{
+color: #FF385C;
+}
+.ContainerSearch{
+    border: 1px #c9c9c9b2 solid;
+    margin: -60px 0px 0px 750px;
+    width: 365px;
+    height: 45px;
+    border-radius: 65px;
+}
+.AnyWhere{
+    margin: 0px 0px 0px 25px;
+}
+.AnyWhere h2{
+    font-size: 15px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.hr-1{
+    margin: -30px 0px 0px -155px;
+}
+.hr-1 .Hr-1{
+    width: 0px;
+    height: 20px;
+}
+
+.AnyWeek{
+    margin: -34px 0px 0px 130px;
+}
+.AnyWeek h2{
+    font-size: 15px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.hr-2{
+    margin: -30px 0px 0px 50px;
+}
+.hr-2 .Hr-2{
+    width: 0px;
+    height: 20px;
+}
+
+.AddGuest{
+    margin: -34px 0px 0px 235px;
+}
+.AddGuest h2{
+    font-size: 15px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #838383;
+}
+.Search-icon{
+    margin: -34px 0px 0px 325px;
+
+}
+.Search-icon .fa-magnifying-glass{
+    background:#FF385C;
+    border-radius: 50px;
+    font-size: 10px;
+    padding: 10px;
+    color: white;
+}
+.Airbnb-Your-Home{
+    margin:  -50px 0px 0px 445px;
+    width: 200px;
+}
+.Airbnb-Your-Home h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 14px;
+    padding: 10px 15px;
+    color: #000000cb;
+
+}
+.YourHome-Higlight:hover{
+    background: #d3d3d33c;
+    border-radius: 50px;
+    width: 125px;
+    color: black;
+}
+
+.internet{
+    margin:  -53px 0px 0px 600px;
+
+}
+.internet .fa-globe{
+    font-size: 15px ;
+    padding: 10px 12px;
+    width: 15px;
+
+}
+.fa-globe:hover{
+    background: #d3d3d33c;
+    border-radius: 50px;
+}
+.User{
+    background: #d3d3d33c;
+    border-radius: 50px;
+    width: 75px;
+    margin:  -40px 0px 0px 650px;
+    padding: 5px 4px;
+    border: 1px rgba(80, 80, 80, 0.463) solid;
+}
+
+.list{
+    margin: 10px 0px 0px 10px;
+}
+.User-Cover{
+    margin: -25px 0px 0px 40px;
+
+}
+
+.User-Cover .fa-circle-user{
+    font-size: 30px;
+    color: gray;
+}
+
+.hr-60 .HR-60{
+    width: 2000px;
+    margin: 20px 0px 0px -900px;
+    color: #83838367;
+}
+.Host-VIP{
+    margin: -30px 0px 0px 350px;
+}
+.Title-Host-VIP{
+    margin: 80px 0px 0px 0px;
+}
+.Title-Host-VIP h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+}
+.Share{
+margin: -60px 0px 0px 980px;
+}
+
+.Title-Share{
+    margin: -20px 0px 0px 25px;
+}
+.Title-Share a{
+    color: black;
+}
+.Save{
+    margin: -16px 0px 0px 1080px;
+    }
+    
+.Title-Save{
+        margin: -20px 0px 0px 25px;
+    }
+.Title-Save a{
+        color: black;
+    }
+
+.Gallary{
+    margin: 30px 0px 0px 0px;
+}    
+
+.Gallary .img1 {
+    width: 580px;
+    height: 605px;
+    background-image:url(Host/Kevin\ Hart.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: -150px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    
+}
+
+.Gallary .img2 {
+    width: 280px;
+    height: 300px;
+    background-image:url(Host/Kevin\ hart\ \(1\).webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -45px;
+
+    margin: -605px 0px 0px 585px;
+    
+}
+
+.Gallary .img3 {
+    width: 280px;
+    height: 300px;
+    background-image:url(Host/Kevin\ hart\ \(3\).webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    margin: 5px 0px 0px 585px;
+    
+}
+
+.Gallary .img4 {
+    width: 280px;
+    height: 300px;
+    background-image:url(Host/Kevin\ hart\ \(2\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: -100px;
+
+    margin: -605px 0px 0px 870px;
+    border-top-right-radius: 15px;
+
+    
+}
+.Gallary .img5 {
+    width: 280px;
+    height: 300px;
+    background-image:url(Host/Kevin\ hart\ \(4\).webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: -90px;
+
+    margin: 5px 0px 0px 870px;
+    border-bottom-right-radius: 15px;
+    
+}
+.ButtonGallary{
+    width: 500px;
+    margin: -45px 0px 0px 1000px;
+}
+
+.ButtonGallary button{
+    padding: 8px 10px;
+    border-radius: 10px;
+    border: none;
+}
+.NotifyMe{
+    width: 350px;
+    height: 160px;
+    border: 1px solid #8f8f8f5d;
+    box-shadow: 1px 1px 10px #99999956;
+    margin: 50px 0px 0px 1150px;
+    border-radius: 10px;
+}
+.Title-NotifyMe{
+    margin: 30px 0px 0px   75px;
+}
+.Title-NotifyMe h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 23px;
+}
+
+.Button-NotifyMe{
+    margin: 0px 0px 0px 23px;
+}
+.Button-NotifyMe button{
+    background: #FF385C;
+    border-radius: 5px;
+    padding: 15px 120px;
+    color: white;
+    border: none;
+    font-size: 15px;
+    
+}
+.Intro-Title{
+    margin: -200px 0px 0px 350px;
+}
+.Intro-Title h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 25px
+}
+
+.Intro-Time{
+    margin: -30px 0px 0px 350px;
+
+}
+.Intro-Time h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px
+
+}
+.HR-7{
+    margin: 0px 0px 0px -465px;
+}
+.HR-7 .Hr-7{
+    width:680px;
+}
+
+.img-Protfilio{
+    width: 40px;
+    height: 40px;
+    background-image: url(Host/img\ -\ Protfilio.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50px;
+    margin: 15px 0px 0px 350px;
+}
+.Title-Host{
+    margin: -60px 0px 0px 410px;
+}
+.Title-Host h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 17px;
+    
+}
+
+.Job-Host{
+    margin: -20px 0px 0px 410px;
+
+}
+
+.Job-Host h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 15px;
+    color:#838383 ;
+    
+}
+.HangPrivate{
+    margin: 35px 0px 0px 360px;
+}
+
+.icon-HangPrivate .fa-lock{
+    font-size: 20px;
+}
+
+.Title-HangPrivate{
+    margin: -50px 0px 0px 50px;
+}
+.Title-HangPrivate h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 16px;
+}
+.Describition-HangPrivate{
+    margin: -15px 0px 0px 50px;
+
+}
+.Describition-HangPrivate h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 14px;
+    color:#838383 ;
+}
+
+
+.TequilaTime{
+    margin: 35px 0px 0px 360px;
+}
+
+.icon-TequilaTime .fa-wine-glass{
+    font-size: 25px;
+}
+
+ .Title-TequilaTime{
+    margin: -50px 0px 0px 50px;
+}
+ .Title-TequilaTime h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 16px;
+}
+ .Describition-TequilaTime{
+    margin: -15px 0px 0px 50px;
+
+}
+ .Describition-TequilaTime h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 14px;
+    color:#838383 ;
+}
+
+.DanceFloor{
+    margin: 35px 0px 0px 360px;
+}
+
+.icon-DanceFloor .fa-wine-glass{
+    font-size: 25px;
+}
+
+ .Title-DanceFloor{
+    margin: -50px 0px 0px 50px;
+}
+ .Title-DanceFloor h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 16px;
+}
+ .Describition-DanceFloor{
+    margin: -15px 0px 0px 50px;
+
+}
+ .Describition-DanceFloor h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 14px;
+    color:#838383 ;
+}
+
+.all-stars{
+    margin: 35px 0px 35px 360px;
+}
+
+.icon-all-stars .fa-star{
+    font-size: 18px;
+}
+
+ .Title-all-stars{
+    margin: -50px 0px 0px 50px;
+}
+ .Title-all-stars h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 16px;
+}
+ .Describition-all-stars{
+    margin: -15px 0px 0px 50px;
+
+}
+.Describition-all-stars h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 14px;
+    color:#838383 ;
+}
+.Introduction-Describtion{
+    margin: 35px 0px 15px 360px;
+}
+
+.FirstPath h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: black;
+}
+.Strong{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 16px;
+    color: black;
+}
+
+.SecondPath{
+    margin: -12px 0px 0px 0px;
+}
+.SecondPath h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: black;
+    
+}
+.TitleOflist h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: black;
+}
+
+
+.list1  h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: black;
+}
+.fa-circle{
+    font-size: 5px;
+}
+
+.MeetYourHost{
+    margin: 35px 0px 15px 360px;
+
+}
+
+.Title-MeetYourHost h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    color: black;
+}
+
+.CreditHost{
+    width: 370px;
+    height: 210px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 1px 1px 5px  #80808052;
+}
+
+.img-CreditHost img{
+    width: 95px;
+    border-radius: 50px;
+    margin: 25px 0px 0px 140px;
+
+}
+
+.Icon-CreditHost{
+    margin: -30px 0px 0px 210px;
+}
+.Icon-CreditHost .fa-shield-halved{
+    font-size: 25px;
+    color: #FF385C;
+}
+
+
+.NameHost h4{
+    font-size: 25px;
+    margin: 5px 0px 0px 140px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+}
+
+.Begin-Host h4{
+    font-size: 15px;
+    margin: 5px 0px 0px 120px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+}
+.Graduation-icon{
+    margin: 30px 0px 0px 0px;
+}
+.Graduation-icon .fa-graduation-cap{
+    font-size: 20px;
+    color: rgba(128, 128, 128, 0.37);
+}
+.Title-Graduation{
+    margin: -45px 0px 0px 40px;
+}
+.Title-Graduation h4{
+    font-size: 15px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+.Work-icon{
+    margin: 30px 0px 0px 0px;
+}
+.Work-icon .fa-briefcase{
+    font-size: 20px;
+    color: rgba(128, 128, 128, 0.37);
+}
+.Title-Work{
+    margin: -45px 0px 0px 40px;
+}
+.Title-Work h4{
+    font-size: 15px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+
+
+.SpendToo-icon{
+    margin: 30px 0px 0px 0px;
+}
+.SpendToo-icon .fa-clock{
+    font-size: 20px;
+    color: rgba(128, 128, 128, 0.37);
+}
+.Title-SpendToo{
+    margin: -45px 0px 0px 40px;
+}
+.Title-SpendToo h4{
+    font-size: 15px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+.FunFact-icon{
+    margin: 30px 0px 0px 0px;
+}
+.FunFact-icon .fa-lightbulb{
+    font-size: 20px;
+    color: rgba(128, 128, 128, 0.37);
+}
+.Title-FunFact{
+    margin: -45px 0px 0px 40px;
+}
+.Title-FunFact h4{
+    font-size: 15px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+.Pets-icon{
+    margin: 30px 0px 0px 0px;
+}
+.Pets-icon .fa-paw{
+    font-size: 20px;
+    color: rgba(128, 128, 128, 0.37);
+}
+.Title-Pets{
+    margin: -45px 0px 0px 40px;
+}
+.Title-Pets h4{
+    font-size: 15px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+.LastNotLeast{
+    margin: 50px 0px 0px 0px;
+}
+.LastNotLeast h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: black;
+}
+.Location{
+    margin: 55px 0px 15px 360px;
+
+}
+
+.Higlight-Location h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: black;
+}
+
+.Title-Location h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: black;
+}
+
+.MindMap .MapGoogle{
+    width: 1000px;
+    height: 600px;
+    border: none;
+    border-radius: 5px;
+}
+.Notes h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: black;
+}
+
+.HR-8{
+    margin: 0px 0px 0px -120px;
+}
+.HR-8 .Hr-8{
+    width:1000px;
+}
+
+.Neighborhood{
+    margin: 35px 0px 15px 360px;
+
+}
+
+.Neighborhood-Highlight h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+    color: black;
+}
+
+.Neighborhood-Describition h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: black;
+    margin: -10px 0px 50px 0px;
+}
+
+.Icon-Container{
+    margin: 35px 0px 15px 360px;
+}
+
+.Icon-img {
+    background-image: url(Host/Icon.avif);
+    background-position: center;
+    background-size: contain;
+    width: 650px;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin: 0px 0px 0px 200px;
+}
+.icon-Name{
+    margin: -10px 0px 0px 470px;
+}
+.icon-Name h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45px;
+    color: black;
+}
+
+.icon-Descrabtio{
+    margin: -30px 0px 0px 300px;
+}
+.icon-Descrabtio h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: black;
+}
+.Essesntial{
+    margin: 35px 0px 15px 360px;
+
+}
+.icon-Process {
+    display: flex;
+
+  }
+  
+  .icon-Process > div {
+    margin: 10px 0px 0px 10px;
+    padding: 10px 320px 0px 5px;
+    font-size: 25px;
+  }
+
+  .Title-Process {
+    display: flex;
+
+  }
+  
+  .Title-Process > h4 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: black;
+    margin: 10px 0px 0px 10px;
+    padding: 10px 235px 0px 5px;
+    font-size: 15px;
+  }
+
+  .Describition-Process {
+    display: flex;
+
+  }
+  
+  .Describition-Process > h4 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: black;
+    margin: 10px 0px 0px 10px;
+    padding: 10px 40px 0px 5px;
+    font-size: 15px;
+  }
+
+  .Notes-Emergency{
+    margin: 35px 0px 15px 360px;
+
+  }
+
+.NotesEmergencyContainer h4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #696868b9;
+}
+.Footer{
+    background: #f7f7f7;
+    width: 1860px;
+    height: 745px;
+    margin: 0px 0px 0px -8px;
+}
+
+.Title-Footer{
+    padding: 45px 0px 0px 320px;
+}
+.Title-Footer h4{
+    font-size: 25px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #222222;
+    margin: 0px 0px 0px 50px;
+
+    
+}
+
+.list-Footer{
+    margin: 25px 0px 0px 320px;
+}
+.list-Footer ul li{
+    display: inline-block;
+
+list-style: none;
+}
+.list-Footer ul li .A1{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+    text-decoration: none;
+    padding: 0px 0px 0px 10px;
+    color: black;
+
+
+}
+.list-Footer ul li a{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+    color: #6d6d6d;
+    text-decoration: none;
+    padding: 0px 0px 0px 20px;
+
+}
+.list-Footer ul li a:hover{
+ 
+    text-decoration: underline;
+
+}
+
+.HR-5 .hr-5{
+    width: 1120px;
+    margin: 0px 0px 0px 370px;
+}
+
+
+.Country-Footer{
+    margin: 25px 0px 0px 320px;
+}
+.Country-Footer ul li{
+    display: inline-block;
+
+list-style: none;
+}
+.Country-Footer ul li .A1{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+    text-decoration: none;
+    padding: 0px 0px 0px 15px;
+    color: black;
+
+
+}
+.Country-Footer ul li .A2{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+    text-decoration: none;
+    padding: 0px 0px 0px 110px;
+    color: black;
+
+
+}
+.Country-Footer ul li .A3{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+    text-decoration: none;
+    padding: 0px 0px 0px 160px;
+    color: black;
+
+
+}
+.Country-Footer ul li a{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+    color: black;
+    text-decoration: none;
+    padding: 0px 0px 0px 120px;
+
+}
+
+.location-Footer{
+    margin: -15px 0px 0px 320px;
+}
+.location-Footer ul li{
+    display: inline-block;
+
+list-style: none;
+}
+.location-Footer ul li .A1{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    text-decoration: none;
+    padding: 0px 0px 0px 15px;
+    color: #a1a1a1;
+
+
+}
+.location-Footer ul li .A2{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    text-decoration: none;
+    padding: 0px 0px 0px 50px;
+    color: #a1a1a1;
+
+
+}
+.location-Footer ul li .A3{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    text-decoration: none;
+    padding: 0px 0px 90px 90px;
+    color: #a1a1a1;
+
+
+}
+.location-Footer ul li .A4{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    text-decoration: none;
+    padding: 0px 0px 60px 125px;
+    color: #a1a1a1;
+
+
+}
+.location-Footer ul li .A5{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    text-decoration: none;
+    padding: 0px 0px 60px 55px;
+    color: #a1a1a1;
+
+
+}
+.location-Footer ul li a{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    color: #a1a1a1;
+    text-decoration: none;
+    padding: 0px 0px 0px 88px;
+}
+
+
+.hr-5 .HR-5{
+    width: 1855px;
+    margin: 50px 0px 0px 0px;
+}
+
+.Title-Support h4{
+    margin: 40px 0px 0px 370px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+}
+
+.List-Support{
+    padding: 0px 0px 0px 330px;
+}
+.List-Support ul li{
+    list-style: none;
+margin: 10px 0px 0px 0px;
+}
+
+.List-Support ul li a{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    color: #a1a1a1;
+    text-decoration: none;
+
+}
+.List-Support ul li a:hover{
+
+    text-decoration: underline;
+
+}
+
+.Title-Hosting h4{
+    margin: -205px 0px 0px 790px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+
+}
+
+.List-Hosting{
+    padding: 0px 0px 0px 750px;
+}
+.List-Hosting ul li{
+    list-style: none;
+margin: 10px 0px 0px 0px;
+}
+
+.List-Hosting ul li a{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    color: #a1a1a1;
+    text-decoration: none;
+
+}
+.List-Hosting ul li a:hover{
+  text-decoration: underline;
+}
+
+.Title-Airbnb h4{
+    margin: -235px 0px 0px 1200px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+
+}
+
+.List-Airbnb{
+    padding: 0px 0px 0px 1160px;
+}
+.List-Airbnb ul li{
+    list-style: none;
+margin: 10px 0px 0px 0px;
+}
+
+.List-Airbnb ul li a{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    color: #a1a1a1;
+    text-decoration: none;
+
+}
+
+.List-Airbnb ul li a:hover{
+  
+    text-decoration: underline;
+
+}
+
+.hr-6 .HR-6{
+    width: 1855px;
+    margin: 60px 0px 0px 0px;
+}
+.Title-CopyWriting h4{
+    margin: 25px 0px 0px 370px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+    color: #3b3b3b;
+
+}
+
+.list-CopyWriting{
+    margin: -35px 0px 0px 510px;
+}
+
+.list-CopyWriting ul li{
+    list-style:circle;
+    display: inline-block;
+
+}
+
+.list-CopyWriting ul li a{
+    padding: 0px 0px 0px 10px;
+    text-decoration: none;
+    color: #3b3b3b;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+
+
+}
+.list-CopyWriting .list1{
+    margin: 0px 0px 0px -10px;
+}
+.list-CopyWriting .list2{
+    margin: 0px 0px 0px -10px;
+}
+.list-CopyWriting .list3{
+    margin: 0px 0px 0px -10px;
+}
+
+.fa-circle{
+    font-size:1px;
+    color: black;
+    padding: 0px 0px 0px 10px;
+}
+
+.Logo-Interent{
+    margin: -35px 0px 0px 1180px;
+}
+.Logo-Interent .fa-globe{
+    font-size: 15px;
+
+}
+.Title-Interent{
+    margin: -20px 0px 0px 1225px;
+
+}
+.Title-Interent a{
+    color: #3b3b3b;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.Title-Interent a:hover{
+    text-decoration: underline;
+}
+
+
+.RM{
+    margin: -35px 0px 0px 1320px;
+
+}
+.RM h4{
+    color: #3b3b3b;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.MYR{
+    margin: -36px 0px 0px 1365px;
+
+}
+.MYR a{
+    color: #3b3b3b;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.MYR a:hover{
+    text-decoration: underline;
+}
+
+.logo-Facebook{
+    margin: -19px 0px 0px 1415px;
+
+}
+.logo-Facebook .fa-facebook{
+    font-size: 15px;
+
+}
+
+.logo-Twitter{
+    border-radius: 50px;
+    margin: -18px 0px 0px 1440px;
+}
+.logo-Twitter .fa-square-twitter{
+    font-size: 15px;
+
+}
+
+.logo-instagram{
+    border-radius: 50px;
+    margin: -18px 0px 0px 1460px;
+}
+.logo-instagram .fa-square-instagram{
+    font-size: 15px;
+
+}
